@@ -1,5 +1,5 @@
-import 'package:flutter_github_browser/api/access_token_parameter.dart';
-import 'package:flutter_github_browser/api/access_token_response.dart';
+import 'package:data_api/src/access_token_parameter.dart';
+import 'package:data_api/src/access_token_response.dart';
 import 'package:retrofit/retrofit.dart';
 import 'package:dio/dio.dart' hide Headers;
 

@@ -1,7 +1,7 @@
 // ignore_for_file: non_constant_identifier_names
 
-import 'package:flutter_github_browser/vo/owner.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
+import 'package:model/src/owner.dart';
 
 part 'repo.freezed.dart';
 part 'repo.g.dart';

@@ -29,7 +29,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  data_api:
+    path: ./packages/data_api
+  data_api_builder:
+    path: ./packages/data_api_builder
+  data_repository:
+    path: ./packages/data_repository
+  model:
+    path: ./packages/model
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

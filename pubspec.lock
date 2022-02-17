@@ -169,6 +169,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.2.1"
+  data_api:
+    dependency: "direct main"
+    description:
+      path: "packages/data_api"
+      relative: true
+    source: path
+    version: "0.0.1"
+  data_api_builder:
+    dependency: "direct main"
+    description:
+      path: "packages/data_api_builder"
+      relative: true
+    source: path
+    version: "0.0.1"
+  data_repository:
+    dependency: "direct main"
+    description:
+      path: "packages/data_repository"
+      relative: true
+    source: path
+    version: "0.0.1"
   dio:
     dependency: "direct main"
     description:
@@ -373,6 +394,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
+  model:
+    dependency: "direct main"
+    description:
+      path: "packages/model"
+      relative: true
+    source: path
+    version: "0.0.1"
   package_config:
     dependency: transitive
     description:

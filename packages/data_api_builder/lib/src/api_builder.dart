@@ -1,7 +1,6 @@
+import 'package:data_api_builder/src/authentication_interceptor.dart';
 import 'package:dio/dio.dart';
-import 'package:flutter_github_browser/api/authentication_interceptor.dart';
-import 'package:flutter_github_browser/api/github_auth_service.dart';
-import 'package:flutter_github_browser/api/github_service.dart';
+import 'package:data_api/data_api.dart';
 
 class ApiBuilder {
   final AuthenticationInterceptor _authenticationInterceptor;

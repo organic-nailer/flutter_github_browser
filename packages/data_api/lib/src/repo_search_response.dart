@@ -1,7 +1,7 @@
 // ignore_for_file: non_constant_identifier_names
 
-import 'package:flutter_github_browser/vo/repo.dart';
 import 'package:json_annotation/json_annotation.dart';
+import 'package:model/model.dart';
 
 part 'repo_search_response.g.dart';
 

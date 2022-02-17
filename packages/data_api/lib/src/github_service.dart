@@ -1,7 +1,5 @@
-import 'package:flutter_github_browser/api/repo_search_response.dart';
-import 'package:flutter_github_browser/vo/contributor.dart';
-import 'package:flutter_github_browser/vo/repo.dart';
-import 'package:flutter_github_browser/vo/user.dart';
+import 'package:data_api/src/repo_search_response.dart';
+import 'package:model/model.dart';
 import 'package:retrofit/retrofit.dart';
 import 'package:dio/dio.dart';
 

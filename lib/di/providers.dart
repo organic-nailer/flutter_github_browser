@@ -1,11 +1,7 @@
+import 'package:data_repository/data_repository.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:flutter_github_browser/api/api_builder.dart';
-import 'package:flutter_github_browser/api/authentication_interceptor.dart';
-import 'package:flutter_github_browser/api/github_auth_service.dart';
-import 'package:flutter_github_browser/api/github_service.dart';
-import 'package:flutter_github_browser/repository/access_token_repository.dart';
-import 'package:flutter_github_browser/repository/repo_repository.dart';
-import 'package:flutter_github_browser/repository/user_repository.dart';
+import 'package:data_api/data_api.dart';
+import 'package:data_api_builder/data_api_builder.dart';
 import 'package:flutter_github_browser/var_env.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

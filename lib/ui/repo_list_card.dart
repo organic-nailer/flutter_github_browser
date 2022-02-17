@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_github_browser/vo/repo.dart';
+import 'package:model/model.dart';
 
 class RepoListCard extends StatelessWidget {
   final Repo item;

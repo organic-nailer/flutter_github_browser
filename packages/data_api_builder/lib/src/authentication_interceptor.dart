@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_github_browser/repository/access_token_repository.dart';
+import 'package:data_repository/data_repository.dart';
 
 class AuthenticationInterceptor extends Interceptor {
   final AccessTokenRepository accessTokenRepository;

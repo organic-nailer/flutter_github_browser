@@ -1,6 +1,5 @@
+import 'package:data_repository/data_repository.dart';
 import 'package:flutter_github_browser/di/providers.dart';
-import 'package:flutter_github_browser/repository/repo_repository.dart';
-import 'package:flutter_github_browser/repository/user_repository.dart';
 import 'package:flutter_github_browser/ui/user_state.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

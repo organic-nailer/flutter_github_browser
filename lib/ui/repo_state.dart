@@ -1,7 +1,5 @@
-import 'package:flutter_github_browser/vo/contributor.dart';
-import 'package:flutter_github_browser/vo/repo.dart';
-import 'package:flutter_github_browser/vo/resource.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
+import 'package:model/model.dart';
 
 part 'repo_state.freezed.dart';
 

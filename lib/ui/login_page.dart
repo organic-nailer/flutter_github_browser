@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_custom_tabs/flutter_custom_tabs.dart';
-import 'package:flutter_github_browser/api/access_token_parameter.dart';
+import 'package:data_api/data_api.dart';
 import 'package:flutter_github_browser/di/providers.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:receive_sharing_intent/receive_sharing_intent.dart';

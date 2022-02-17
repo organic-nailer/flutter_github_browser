@@ -1,7 +1,5 @@
-import 'package:flutter_github_browser/api/github_service.dart';
-import 'package:flutter_github_browser/vo/contributor.dart';
-import 'package:flutter_github_browser/vo/repo.dart';
-import 'package:flutter_github_browser/vo/resource.dart';
+import 'package:data_api/data_api.dart';
+import 'package:model/model.dart';
 
 class RepoRepository {
   final GithubService _githubService;
