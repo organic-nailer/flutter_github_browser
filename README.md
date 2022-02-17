@@ -1,16 +1,12 @@
 # flutter_github_browser
 
-A new Flutter project.
+This package is the reimplementation of the https://github.com/DroidKaigi/architecture-components-samples/tree/droidkaigi-2020-codelab/GithubBrowserSample.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+prepare `.env`.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+CLIENT_ID=[YOUR_GITHUB_CLIENT_ID]
+CLIENT_SECRET=[YOUR_GITHUB_CLIENT_SECRET]
+```
